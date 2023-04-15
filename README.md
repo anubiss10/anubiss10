@@ -25,6 +25,7 @@ public class Julian {
 }
 class Technologies {
     FrontEnd frontEnd = new FrontEnd();
+    Backend backEnd = new BackEnd();
     String[] backEnd = {"Java"};
     String[] frontEnd={"Html", "css","jsp"};
     String[] databases = {"SQLserver"};
