@@ -1,5 +1,5 @@
 # 💫 About Me:
-!Hola¡ Soy Julián 👋<br>Ahora mismo soy estudiante de prácticas en Desarrollo de Aplicaciones Multimedia<br><br>Me encanta adiquirir nuevos conocimentos de cualquier tema relacionado con el desarrollo de software.
+!Hola¡ Soy Julián 👋<br>Soy Desarrollador de Aplicaciones Multiplataforma<br><br>Me encanta adiquirir nuevos conocimentos de cualquier tema relacionado con el desarrollo de software.
 
 
 ## 🌐 Socials:
